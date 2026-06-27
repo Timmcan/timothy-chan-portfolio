@@ -20,7 +20,7 @@ export default function Navbar() {
           </button>
         ))}
         <a
-          href="/TC_AI_Fellowship_resume.pdf"
+          href="/timothy-chan-portfolio/TC_AI_Fellowship_resume.pdf"
           target="_blank"
           className="text-accent border border-accent/50 px-4 py-1.5 rounded-md text-sm font-semibold hover:bg-accent/10 transition-colors"
         >
