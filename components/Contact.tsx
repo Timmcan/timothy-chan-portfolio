@@ -31,10 +31,10 @@ export default function Contact() {
         <a href="https://bold.pro/my/timothy-chan-260403203458/156r" target="_blank" className="text-muted text-sm font-medium hover:text-white transition-colors">
           Portfolio
         </a>
-        <a href="https://github.com/timothylkchan" target="_blank" className="text-muted text-sm font-medium hover:text-white transition-colors">
+        <a href="https://github.com/TChan-svj" target="_blank" className="text-muted text-sm font-medium hover:text-white transition-colors">
           GitHub
         </a>
-        <a href="https://linkedin.com/in/timothylkchan" target="_blank" className="text-muted text-sm font-medium hover:text-white transition-colors">
+        <a href="https://www.linkedin.com/in/timothy-chan-82744a275/" target="_blank" className="text-muted text-sm font-medium hover:text-white transition-colors">
           LinkedIn
         </a>
       </div>

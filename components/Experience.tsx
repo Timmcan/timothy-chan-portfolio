@@ -5,7 +5,7 @@ const EXPERIENCE = [
   {
     role: "Software Developer",
     company: "Astrion / NASA — Mountain View, CA",
-    period: "09/2023 – 03/2026",
+    period: "04/2024 – 03/2026",
     desc: "Architected and deployed Praxis Web Risk, a full-stack risk tracking application for NASA teams using React and Node.js on AWS, with REST APIs and embedded Power BI dashboards. Led migration of a legacy C# Windows desktop tool to a browser-based platform, mentoring a team of 5 interns through the full Agile lifecycle. Maintained C# VSTO tooling (SMART Tool) and NASA's SharePoint/Project Server infrastructure in a federal high-compliance environment.",
     tags: ["React", "Node.js", "AWS", "REST APIs", "Power BI", "C#", "SharePoint"],
   },
